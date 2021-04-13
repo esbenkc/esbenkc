@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esben Kran</h1>
 <h3 align="center">AI + BCI researcher</h3>
 
-<p align="left"> <a href="https://twitter.com/esbenkc" target="blank"><img src="https://img.shields.io/twitter/follow/esbenkc?logo=twitter&style=for-the-badge" alt="esbenkc" /></a> </p>
-
 - 🔭 I’m currently working on [an empathetic AI review paper](https://github.com/esbenkc/empathic-ai-review) and [Neurotech Denmark](https://twitter.com/neurotech-denmark)
 
 - 🌱 I’m currently learning **reinforcement learning**
