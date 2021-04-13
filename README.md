@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [an empathetic AI review paper](https://github.com/esbenkc/empathic-ai-review) and [Neurotech Denmark](https://twitter.com/neurotech-denmark)
 
-- 🌱 I’m currently learning **reinforcement learning**
+- 🌱 I’m currently learning: **reinforcement learning**
 
-- 📫 How to reach me **esben@kran.ai**
+- 📫 How to reach me: e-mail on **esben@kran.ai** or on phone **+45 60 73 61 97**
 
-- ⚡ Fun fact **I read at least a book a week!**
+- ⚡ Fun fact: **I read at least a book a week!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
