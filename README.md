@@ -2,11 +2,9 @@
 <h3 align="center">AI + BCI researcher</h3>
 
 - 🔭 I’m currently working on [an empathetic AI review paper](https://gitlab.com/esbenkran/empathetic-ai/-/boards/2566319) and [Neurotech Denmark](https://twitter.com/neurotech-denmark)
-
+- 💡 See my current ideas on [my website](https://kran.ai/bachelor/ideas.php)
 - 🌱 I’m currently learning: **reinforcement learning**
-
 - 📫 How to reach me: e-mail on **esben@kran.ai** or on phone **+45 60 73 61 97**
-
 - ⚡ Fun fact: **I read at least a book a week!**
 
 <h3 align="left">Connect with me:</h3>
