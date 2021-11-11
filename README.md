@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esben Kran</h1>
-<h3 align="center">BCI + AI researcher</h3>
+<h1>Hi 👋, I'm Esben Kran</h1>
+<h3>BCI + AI researcher</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esbenkc&show_icons=true&locale=en" alt="esbenkc" /></p>
 
