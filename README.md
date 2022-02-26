@@ -1,11 +1,14 @@
 <h1>Hi 👋, I'm Esben Kran</h1>
-<h3>BCI + AI researcher</h3>
+<h3>AI Safety researcher</h3>
 
 #### Edgy Github Stats
+
+Currently working at [**A\*PART** Resarch](https://a-part.ai) to create a future where we can co-exist with benevolent AGI.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=esbenkc&show_icons=true&theme=radical&count_private=true&hide=stars" />
 
 - 📫 How to reach me: e-mail on **esben@kran.ai** or on phone **+1 (831) 295-3228**
-- ⚡ Fun fact: I'm going to read [100 books in 2022](https://www.goodreads.com/user_challenges/32486229) and will commit 5 times / day on Github
+- ⚡ Fun fact: I'm going to read [100 books in 2022](https://www.goodreads.com/user_challenges/32486229)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
