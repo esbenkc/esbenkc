@@ -5,8 +5,6 @@
 
 Currently working at [Apart Research](https://a-part.ai) to create a future where we can co-exist with benevolent AGI.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=esbenkc&show_icons=true&theme=radical&count_private=true&hide=stars" />
-
 - 📫 How to reach me: e-mail on **esben@kran.ai** or on phone **+45 60 73 61 97**
 - ⚡ Fun fact: I'm going to read [100 books in 2022](https://www.goodreads.com/user_challenges/32486229)
 
